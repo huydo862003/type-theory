@@ -44,7 +44,7 @@ An interpreter-based approach to programming languages. Covers parsing, desugari
 A series of electronic textbooks on the mathematical underpinnings of reliable software using the Coq proof assistant.
 
 **Volumes:**
-- **LF** — Logical Foundations
-- **PLF** — Programming Language Foundations
-- **VFA** — Verified Functional Algorithms
-- **QC** — QuickChick: Property-based testing
+- **LF** - Logical Foundations
+- **PLF** - Programming Language Foundations
+- **VFA** - Verified Functional Algorithms
+- **QC** - QuickChick: Property-based testing
