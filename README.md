@@ -6,9 +6,7 @@
 
 Hands-on implementations of type systems, interpreters, and related concepts. Includes exercises from TAPL, PLAI, Software Foundations, and other sources.
 
-**Concepts tracker**: [Notion](https://painted-jodhpur-6fe.notion.site/Concepts-master-2bbaa8fcd08880cc91bacfef709d0aec)
-
-**Flashcards**: [Notion](https://painted-jodhpur-6fe.notion.site/2c2aa8fcd08881eda13be92197bb9a52?v=2c2aa8fcd088812f91cd000c66428765&pvs=73)
+**Progress tracker**: [scrambled kitchen](https://huydo862003.github.io/journeys/plt)
 
 **Companion projects**:
   - [dboxide](https://github.com/hdnax): A rewrite of DBML in Rust, learning from `rust-analyzer`.
