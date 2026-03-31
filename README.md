@@ -19,7 +19,7 @@ This project uses [Nix](https://nixos.org/) for reproducible development environ
 
 ## Books
 
-### TAPL — Types and Programming Languages
+### TAPL - Types and Programming Languages
 
 - **Author:** Benjamin C. Pierce
 - **Language:** OCaml
@@ -27,7 +27,7 @@ This project uses [Nix](https://nixos.org/) for reproducible development environ
 
 The definitive textbook on type systems. Covers type systems, operational semantics, lambda calculus, subtyping, polymorphism, and type reconstruction.
 
-### PLAI — Programming Languages: Application and Interpretation
+### PLAI - Programming Languages: Application and Interpretation
 
 - **Author:** Shriram Krishnamurthi
 - **Language:** Typed Plait (Racket)
@@ -35,7 +35,7 @@ The definitive textbook on type systems. Covers type systems, operational semant
 
 An interpreter-based approach to programming languages. Covers parsing, desugaring, interpreters, environments, mutation, objects, type systems, and continuations.
 
-### SF — Software Foundations
+### SF - Software Foundations
 
 - **Authors:** Benjamin C. Pierce et al.
 - **Language:** Coq/Rocq
