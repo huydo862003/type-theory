@@ -3,6 +3,7 @@
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=white)
 ![Coq](https://img.shields.io/badge/Coq-CC2927?logo=coq&logoColor=white)
 ![Racket](https://img.shields.io/badge/Racket-9F1D20?logo=racket&logoColor=white)
+<a href="https://github.com/huydo862003/Fck-AI-Slop#plan"><img src="https://img.shields.io/badge/human%20slop-90EE90"></a>
 
 Hands-on implementations of type systems, interpreters, and related concepts. Includes exercises from TAPL, PLAI, Software Foundations, and other sources.
 
