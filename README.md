@@ -1,5 +1,7 @@
 # Type Theory
 
+> I'm delaying this a bit because I'm refactoring AI slop 🥲
+
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=white)
 ![Coq](https://img.shields.io/badge/Coq-CC2927?logo=coq&logoColor=white)
 ![Racket](https://img.shields.io/badge/Racket-9F1D20?logo=racket&logoColor=white)
@@ -7,7 +9,7 @@
 
 Hands-on implementations of type systems, interpreters, and related concepts. Includes exercises from TAPL, PLAI, Software Foundations, and other sources.
 
-**Progress tracker**: [scrambled kitchen](https://huydo862003.github.io/journeys/plt)
+**Progress tracker**: [scrambled kitchen](https://huydo862003.github.io/journeys/plt) (Revamping...)
 
 **Companion projects**:
   - [dboxide](https://github.com/hdnax): A rewrite of DBML in Rust, learning from `rust-analyzer`.
