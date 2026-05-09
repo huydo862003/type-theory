@@ -1,6 +1,6 @@
 # Type Theory
 
-> I'm delaying this a bit because I'm refactoring AI slop 🥲
+> I'm delaying this a bit because I'm refactoring AI slop on my blogapp 🥲 I'm also working on a knowledge base parser catered to my needs first... until everything settles in, I'm delaying reading works...
 
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=white)
 ![Coq](https://img.shields.io/badge/Coq-CC2927?logo=coq&logoColor=white)
